@@ -1,2 +1,1 @@
-# pizza-recipes
-Receptury picki 
+# pizza-recepies
